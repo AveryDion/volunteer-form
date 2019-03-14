@@ -11,3 +11,28 @@ html {
 .green {
   color: #70ad55;
 }
+
+hr {
+  border-color: #70ad55;
+  height: 1px;
+}
+
+input {
+  margin: .2em 0 .1em;
+  border-color: #6e8c62;
+}
+
+select,
+textarea {
+  border-color: #6e8c62;
+}
+
+textarea {
+  height: 10rem;
+}
+
+.btn {
+  background-color: #6e8c62;
+  border-color: #6e8c62;
+  color: #fff;
+}
