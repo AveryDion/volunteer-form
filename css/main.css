@@ -1,0 +1,13 @@
+header,
+footer {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+html {
+  font-family: "Noto Serif", serif;
+}
+
+.green {
+  color: #70ad55;
+}
